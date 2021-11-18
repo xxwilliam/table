@@ -12,7 +12,7 @@ table, th,td {
   
   <table style="width:100%">
     <tr>
-  <table style="height:120px">
+  <table style="height:400px">
     <tr>
       <th><b>The plan</b></th>
       <th><p>Develop a website where referees and officials of all sports have
