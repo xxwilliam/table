@@ -31,7 +31,11 @@ table, th,td {
                      
                      And more...as we run trials on the website development phase
         and changes are identified.</p>
-    
+    </tr>
+    <tr>
+      <th><p>This is where we unpack every element of the website and how the above bullet 
+        points are developed and what they will be used for.</p>
+    </tr>    
       </table>
   </table>
   </body>
