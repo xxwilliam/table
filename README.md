@@ -12,7 +12,7 @@ table, th,td {
   
   <table style="width:100%">
    
-  <table style="height:900px">
+  <table style="height:1000px">
     <tr>
       <th><b>The plan</b></th>
       <th><p>Develop a website where referees and officials of all sports have
@@ -32,7 +32,7 @@ table, th,td {
         and changes are identified.</p>
     </tr>
     <tr style="width:100%">
-    <tr style="height100px">  
+    
       <td><p>This is where we unpack every element of the website and how the above bullet points are developed and what they will be used for.</p>
         
     </td>
