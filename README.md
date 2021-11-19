@@ -9,7 +9,7 @@ table, th,td {
 </style>
 <body>
   
-  <h2>The plan and progress of the online referee platform are as follows.</h2>
+  <h2><b>The plan and progress of the online referee platform are as follows.</b></h2>
   
   <table style="width:100%">
    
@@ -32,7 +32,8 @@ table, th,td {
                      And more...as we run trials on the website development phase
         and changes are identified.</p>
     </tr>
-    <tr>
+    <tr style="width:100%">
+    <tr style="height100px">  
       <td><p>This is where we unpack every element of the website and how the above bullet 
         points are developed and what they will be used for.</p>
     </td>
