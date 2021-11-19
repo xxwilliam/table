@@ -19,7 +19,7 @@ table, th,td {
         a platform where everything from:</p>
         <p>&#9733;   Login page</p>
         <p>&#9733;   Upcoming games</p>
-        <p>&#9733;   Rostering,/p>
+        <p>&#9733;   Rostering</p>
         <p>&#9733;   Training</p>  
         <p>&#9733;   Administration tools (customised forms and reporting)</p>
         <p>&#9733;   Policies and procedures</p>
