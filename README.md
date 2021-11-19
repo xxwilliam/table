@@ -4,17 +4,19 @@
 <style>
 table, th,td {
   border:1px solid Red;
+  
   }
 </style>
 <body>
   
   <h2><b>The plan and progress of the online referee platform are as follows.</b></h2>
   
-  <table style="width:80%">
+  <table style="width:100%">
    
   <table style="height:1000px">
     <tr>
-      <th><b>The plan</b></th>
+      <th style="width:40%"><b>The plan</b></th>
+      
       <th><p>Develop a website where referees and officials of all sports have
         a platform where everything from:</p>
         <p>&#9733;   Login page</p>
