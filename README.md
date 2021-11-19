@@ -34,8 +34,8 @@ table, th,td {
     </tr>
     <tr style="width:100%">
     <tr style="height100px">  
-      <td><p>This is where we unpack every element of the website and how the above bullet 
-        points are developed and what they will be used for.</p>
+      <td><p>This is where we unpack every element of the website and how the above bullet points are developed and what they will be used for.</p>
+        
     </td>
     </tr>  
       </table>
