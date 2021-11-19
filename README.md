@@ -10,7 +10,7 @@ table, th,td {
   
   <h2><b>The plan and progress of the online referee platform are as follows.</b></h2>
   
-  <table style="width:100%">
+  <table style="width:80%">
    
   <table style="height:1000px">
     <tr>
