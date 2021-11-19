@@ -29,7 +29,7 @@ table, th,td {
         <p>&#9733;   Contact us (contact details,feedback forms, become a referee
                      partner-offers access to the platform)</p>
                      
-                     And more...as we run trials on the website development phase
+        <p>             And more...as we run trials on the website development phase
         and changes are identified.</p>
     </tr>
     <tr style="width:100%">
