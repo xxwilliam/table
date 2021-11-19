@@ -4,7 +4,6 @@
 <style>
 table, th,td {
   border:1px solid Red;
-  border-collapse: collapse;
   }
 </style>
 <body>
@@ -13,7 +12,7 @@ table, th,td {
   
   <table style="width:100%">
    
-  <table style="height:600px">
+  <table style="height:800px">
     <tr>
       <th><b>The plan</b></th>
       <th><p>Develop a website where referees and officials of all sports have
